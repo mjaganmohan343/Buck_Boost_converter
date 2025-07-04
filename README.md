@@ -13,6 +13,7 @@ The project includes:
 
 ---
 > ![image](https://github.com/user-attachments/assets/2f035ea3-ecde-433e-bfe2-043544a7b711)
+> <img src="SCHEMATIC.jpg" alt="Schematic" width="500"/>
 ## 🛠️ Components Used
 
 | Component            | Description                     |
