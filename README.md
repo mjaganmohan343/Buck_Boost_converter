@@ -1,8 +1,6 @@
 # 🔋 Buck-Boost Converter
 
 > A complete design, simulation, and hardware implementation of a Buck-Boost DC-DC converter
-> ![image](https://github.com/user-attachments/assets/2f035ea3-ecde-433e-bfe2-043544a7b711)
-
 
 ## 📘 Overview
 
@@ -14,7 +12,7 @@ The project includes:
 - Hardware fabrication and real-world testing at the **Makerspace Lab and EMPEL , IIT Indore**
 
 ---
-
+> ![image](https://github.com/user-attachments/assets/2f035ea3-ecde-433e-bfe2-043544a7b711)
 ## 🛠️ Components Used
 
 | Component            | Description                     |
